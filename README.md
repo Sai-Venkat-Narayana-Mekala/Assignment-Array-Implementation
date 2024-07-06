@@ -6,24 +6,42 @@
 ### Test Case 1
 
 **Input**:
-**Enter the number of rows: 4**
-**Enter the number of columns: 4**
-**Enter row index: 0**
-**Enter column index: 1**
-**Enter value: 5**
-**Do you want to add another element? (y/n): y**
-**Enter row index: 1**
-**Enter column index: 2**
-**Enter value: 8**
-**Do you want to add another element? (y/n): y**
-**Enter row index: 2**
-**Enter column index: 3**
-**Enter value: 12**
-**Do you want to add another element? (y/n): y**
-**Enter row index: 3**
-**Enter column index: 0**
-**Enter value: 15**
-**Do you want to add another element? (y/n): n**
+Enter the number of rows: 4
+
+Enter the number of columns: 4
+
+Enter row index: 0
+
+Enter column index: 1
+
+Enter value: 5
+
+Do you want to add another element? (y/n): y
+
+Enter row index: 1
+
+Enter column index: 2
+
+Enter value: 8
+
+Do you want to add another element? (y/n): y
+
+Enter row index: 2
+
+Enter column index: 3
+
+Enter value: 12
+
+Do you want to add another element? (y/n): y
+
+Enter row index: 3**
+
+Enter column index: 0**
+
+Enter value: 15**
+
+Do you want to add another element? (y/n): n
+
 
 
 **Output**:
