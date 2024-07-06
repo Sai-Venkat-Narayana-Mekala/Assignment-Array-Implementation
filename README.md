@@ -6,6 +6,7 @@
 ### Test Case 1
 
 **Input**:
+
 Enter the number of rows: 4
 
 Enter the number of columns: 4
@@ -34,47 +35,72 @@ Enter value: 12
 
 Do you want to add another element? (y/n): y
 
-Enter row index: 3**
+Enter row index: 3
 
-Enter column index: 0**
+Enter column index: 0
 
-Enter value: 15**
+Enter value: 15
 
 Do you want to add another element? (y/n): n
 
 
 
 **Output**:
-**Sparse Matrix:**
-**0 5 0 0**
-**0 0 8 0**
-**0 0 0 12**
-**15 0 0 0**
+
+Sparse Matrix:
+
+0 5 0 0
+
+0 0 8 0
+
+0 0 0 12
+
+15 0 0 0
 
 ### Test Case 2
 
 **Input**:
+
 Enter the number of rows: 3
+
 Enter the number of columns: 3
+
 Enter row index: 0
+
 Enter column index: 0
+
 Enter value: 7
+
 Do you want to add another element? (y/n): y
+
 Enter row index: 1
+
 Enter column index: 1
+
 Enter value: 0
+
 Do you want to add another element? (y/n): y
+
 Enter row index: 2
+
 Enter column index: 2
+
 Enter value: 3
+
 Do you want to add another element? (y/n): n
 
 
+
 **Output**:
+
 Sparse Matrix:
+
 7 0 0
+
 0 0 0
+
 0 0 3
+
 
 
 ## Description
