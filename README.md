@@ -1,7 +1,7 @@
 # Sparse Matrix Array Implementation
 
 
-## Input and Output
+## Example Input and Output
 
 ### Test Case 1
 
